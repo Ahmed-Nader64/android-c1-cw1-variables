@@ -1,0 +1,21 @@
+public class Main
+{
+	public static void main(String[] args) {
+	
+		
+		
+		String name ="Mohammed";
+		
+		int favoriteNumber =64;
+		
+		String hoppy ="playing video games";
+		
+		
+		System.out.println("Hi,my name is " + name + ",my favorite numbre is " + favoriteNumber + ",and my hoppy is " + hoppy);
+		
+		
+		
+		
+		
+	}
+}
