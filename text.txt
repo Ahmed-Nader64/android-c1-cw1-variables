@@ -1,21 +1,14 @@
 public class Main
 {
-	public static void main(String[] args) {
-	
-		
-		
-		String name ="Mohammed";
-		
-		int favoriteNumber =64;
-		
-		String hoppy ="playing video games";
-		
-		
-		System.out.println("Hi,my name is " + name + ",my favorite numbre is " + favoriteNumber + ",and my hoppy is " + hoppy);
-		
-		
-		
-		
-		
-	}
+    public static void main(String[] args) {
+
+    String name = "Mohammed" ;
+
+    int favoriteNumber = 64 ;
+
+    String hobby ="playing video games" ;
+
+   System.out.println(" my name is " + name + " my favourite number is " + favoriteNumber +" my hobby is " + hobby);
+
+    }
 }
